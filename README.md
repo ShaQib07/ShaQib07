@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaqib07&label=Profile%20views&color=0e75b6&style=flat" alt="shaqib07" /> </p>
 
-- 🔭 I’m currently working on [KMP-Template, a project template for Kotlin Multiplatform.](https://github.com/monstar-lab-oss/KMP-Template)
+- 🔭 I’m currently working on [KMP-Template](https://github.com/monstar-lab-oss/KMP-Template), an open source template project for Kotlin Multiplatform.
 
 - 🌱 I’m currently learning **iOS and Kotlin Multiplatform development.**
 
@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/possesed_shaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="possesed_shaqib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/golam shakib khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="golam shakib khan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/golam-shakib-khan-9b6184175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="golam shakib khan" height="30" width="40" /></a>
 <a href="https://medium.com/@shakib.possesed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakib.possesed" height="30" width="40" /></a>
 </p>
 
