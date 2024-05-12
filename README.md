@@ -1,4 +1,4 @@
-![Banner Image](https://raw.githubusercontent.com/ShaQib07/ShaQib07/main/banner.jpg)
+![Banner Image]()
 <h1 align="center">Hi 👋, I'm Shakib</h1>
 <p align="left">A seasoned mobile developer with over 4 years of hands-on experience crafting robust Android applications. My passion lies in creating sleek, user-friendly mobile experiences that make a difference.
 <br>📱 My journey began with a fascination for Android development, where I honed my skills in Java and Kotlin to build impactful apps that cater to diverse user needs. Over the years, I've delved into the intricacies of Android architecture patterns like MVVM and Jetpack components to ensure scalable and maintainable codebases. 
