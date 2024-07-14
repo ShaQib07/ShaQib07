@@ -1,6 +1,6 @@
 ![Banner Image](https://raw.githubusercontent.com/ShaQib07/ShaQib07/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Shakib</h1>
-<p align="left">A seasoned mobile developer with over 4 years of hands-on experience crafting robust Android applications. My passion lies in creating sleek, user-friendly mobile experiences that make a difference.
+<p align="left">A seasoned mobile developer with 5 years of hands-on experience crafting robust Android applications. My passion lies in creating sleek, user-friendly mobile experiences that make a difference.
 <br>📱 My journey began with a fascination for Android development, where I honed my skills in Java and Kotlin to build impactful apps that cater to diverse user needs. Over the years, I've delved into the intricacies of Android architecture patterns like MVVM and Jetpack components to ensure scalable and maintainable codebases. 
 <br>🍏 In addition to my Android expertise, I've also dipped my toes into the world of iOS development, gaining a solid foundation in Swift and SwiftUI. This cross-platform exploration has equipped me with a unique perspective on mobile development, enabling me to leverage best practices across both ecosystems. 
 <br>💡 Excited by the possibilities of Kotlin Multiplatform, I've ventured into this realm to streamline development efforts and maximize code reuse between Android and iOS platforms. While still refining my skills in this area, I'm eager to contribute to the growing community and push the boundaries of mobile development further. 
