@@ -1,37 +1,78 @@
 ![Banner Image](https://raw.githubusercontent.com/ShaQib07/ShaQib07/main/banner.jpg)
+
 <h1 align="center">Hi 👋, I'm Shakib</h1>
-<p align="left">A seasoned mobile developer with 5 years of hands-on experience crafting robust Android applications. My passion lies in creating sleek, user-friendly mobile experiences that make a difference.
-<br>📱 My journey began with a fascination for Android development, where I honed my skills in Java and Kotlin to build impactful apps that cater to diverse user needs. Over the years, I've delved into the intricacies of Android architecture patterns like MVVM and Jetpack components to ensure scalable and maintainable codebases. 
-<br>🍏 In addition to my Android expertise, I've also dipped my toes into the world of iOS development, gaining a solid foundation in Swift and SwiftUI. This cross-platform exploration has equipped me with a unique perspective on mobile development, enabling me to leverage best practices across both ecosystems. 
-<br>💡 Excited by the possibilities of Kotlin Multiplatform, I've ventured into this realm to streamline development efforts and maximize code reuse between Android and iOS platforms. While still refining my skills in this area, I'm eager to contribute to the growing community and push the boundaries of mobile development further. 
-<br>🔧 When I'm not coding, you can find me tinkering with the latest tech gadgets, watching new animes and TV series, or simply gaming. I'm always up for collaboration and learning new things, so feel free to reach out and let's build something awesome together!</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shaqib07&label=Profile%20views&color=0e75b6&style=flat" alt="shaqib07" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shaqib07&label=Profile%20views&color=0e75b6&style=flat" alt="shaqib07" />
+</p>
 
-- 🔭 I’m currently working on [KMP-Template](https://github.com/monstar-lab-oss/KMP-Template), an open source template project for Kotlin Multiplatform.
+A seasoned mobile developer with 5+ years of hands-on experience crafting robust Android applications. My passion lies in creating sleek, user-friendly mobile experiences that make a difference.
 
-- 🌱 I’m currently learning **iOS and Kotlin Multiplatform development.**
+📱 My journey began with Android development, honing my skills in Java and Kotlin to build impactful apps. Over the years I've embraced architecture patterns like MVVM and Jetpack Compose to deliver scalable, maintainable codebases.
 
+🍏 Beyond Android, I've built a solid foundation in iOS development with Swift and SwiftUI — giving me a unique cross-ecosystem perspective on mobile engineering.
+
+💡 I'm now expanding into Flutter, adding another powerful cross-platform skill to my toolkit and building beautiful, performant UIs from a single codebase.
+
+🔧 When I'm not coding, you'll find me watching anime, gaming, or tinkering with the latest tech gadgets. Always up for collaboration — let's build something awesome together!
+
+---
+
+- 🔭 I'm currently working on **native Android applications**
+- 🌱 I'm currently learning **Flutter and Dart**
 - 📝 I occasionally write articles on [Medium](https://medium.com/@shakib.possesed)
+- 💬 Ask me about **anything related to Android and Kotlin Multiplatform development**
+- 📫 Reach me at **gsk.shakib.07@gmail.com**
+- 📄 View my experiences on my [Resume](https://drive.google.com/file/d/1VFr0qTsB9YfezKXNAe-IzlzrzVviq40h/view?usp=sharing)
 
-- 💬 Ask me about **anything related to Andoid and Kotlin Multiplatform development.**
+---
 
-- 📫 You can reach me via **gsk.shakib.07@gmail.com**
+### Connect with me
 
-- 📄 Know about my experiences from my [Resume](https://drive.google.com/file/d/1VFr0qTsB9YfezKXNAe-IzlzrzVviq40h/view?usp=sharing)
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/possesed_shaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="possesed_shaqib" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/golam-shakib-khan-9b6184175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="golam shakib khan" height="30" width="40" /></a>
 <a href="https://medium.com/@shakib.possesed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shakib.possesed" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shaqib07&show_icons=true&locale=en&layout=compact" alt="shaqib07" /></p>
+### Tech Stack
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shaqib07&show_icons=true&locale=en" alt="shaqib07" /></p>
+**Mobile Platforms**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shaqib07&" alt="shaqib07" /></p>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Languages**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+**Frameworks & Tools**
+
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaqib07&show_icons=true&locale=en&layout=compact" alt="shaqib07" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shaqib07&show_icons=true&locale=en" alt="shaqib07" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=shaqib07" alt="shaqib07" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shaqib07&theme=github-compact" alt="Contribution graph" />
+</p>
